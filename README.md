@@ -1,5 +1,5 @@
 # Food Order App
-The project that I learned and practise React.
+The project that I learned and practice React.
 
 ## `npm start`
 
